@@ -44,7 +44,8 @@ Dashboard Features
 ________________________________________
 Dashboard Preview
 Dashboard Interaction <a href="https://github.com/Devam665/IPL-Auction_Intelligence_Analysis/tree/main/DashBoard">View Dashboard</a>.
-<img src="https://github.com/Devam665/IPL-Auction_Intelligence_Analysis/tree/main/DashBoard"></img>
+Image:-
+<img width="959" height="746" alt="Dashboard" src="https://github.com/Devam665/IPL-Auction_Intelligence_Analysis/tree/main/DashBoard"/>
 ________________________________________
 Future Improvements
 •	Machine Learning prediction model 
