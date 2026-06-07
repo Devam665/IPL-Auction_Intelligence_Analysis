@@ -43,8 +43,8 @@ Dashboard Features
 •	Interactive slicers 
 ________________________________________
 Dashboard Preview
-Dashboard Interaction <a href="https://github.com/Devam665/IPL-Auction_Intelligence_Analysis/blob/main/Screenshot%202026-05-27%20212715.png">View Dashboard</a>.
-<a href="https://github.com/Devam665/IPL-Auction_Intelligence_Analysis/blob/main/Screenshot%202026-05-27%20212715.png">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/Devam665/IPL-Auction_Intelligence_Analysis/tree/main/DashBoard">View Dashboard</a>.
+<img src="https://github.com/Devam665/IPL-Auction_Intelligence_Analysis/tree/main/DashBoard"></img>
 ________________________________________
 Future Improvements
 •	Machine Learning prediction model 
